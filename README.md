@@ -1,2 +1,1 @@
-# data-science-projects
-data science projects
+just random fun prediction project (just for fun) 
