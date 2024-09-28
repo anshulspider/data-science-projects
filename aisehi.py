@@ -2,9 +2,9 @@ import pandas as pd
 
 
 
-l = [10,20,30,40]
+randomlist = ['anshul','faizan','aditya']
 
 
-y = pd.Series(l)
+y  = pd.Series(randomlist,index=['i','ii','iii'])
 
 print(y)
